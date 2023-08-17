@@ -1,0 +1,41 @@
+table {
+    border-collapse: collapse;
+    text-align: center;
+    border:0.5px solid gray;
+}
+.tds{
+    border-collapse:collapse;
+    border:0.5px solid gray;
+    padding: 20px 0px ;
+}
+tr{
+    border:0.5px solid gray;
+}
+.brand_logos{
+    width: 90px;
+    height: auto;
+  }
+  .all_brand_div_one{
+    width: 100%;
+    margin: 0 auto;
+  }
+  .brand_name{
+    font-size: 14px;
+    color: darkgrey;
+  }
+  .links{
+    text-decoration-line: none;
+  }
+  .sliderhome{
+    width: 400px;
+    height: auto;
+  }
+  .all_brand_div{
+    padding: 100px 0px 0px 0px;
+  }
+  .allbrandone{
+    padding-top: 80px;
+  }
+  .allBrandHead{
+    margin: 20px 0px;
+  }

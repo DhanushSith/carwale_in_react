@@ -1,0 +1,109 @@
+.compare_div{
+    border: 0.5px solid gray;
+    border-radius: 5px;
+    text-align:center;
+    padding:30px 50px;
+    height: 300px;
+}
+.com_car_logo{
+    border-radius: 50%;
+    width: 150px;
+    height: auto;
+}
+.compareing_container{
+    position: relative;
+}
+.compress{
+    position: absolute;
+    top: 45%;
+    left: 48.1%;
+    font-size: 40px;
+    border: 0.5px solid #002b51;
+    padding: 5px;
+    border-radius: 50%;
+    color: #c52222;
+}
+.selectCars{
+    color: #0288d1;
+    justify-content: center;
+}
+.compare_button{
+    padding: 15px 70px;
+    background-color: #eb3131;
+    border-radius: 5px;
+    margin: 20px 0px 40px 0px;
+    color: white;
+    font-size: 25px;
+    border: none;
+    
+}
+.popsec{
+    width: 600px;
+    height: 570px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 10px;
+    
+}
+.head_img_pop{
+    background-image: url(https://imgd.aeplcdn.com/0x0/cw/static/icons/svg/skyline-bg.svg);
+    width: 580px;
+    height: 51px;
+   
+}
+.frame{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+.compaingSection{
+    position: relative;
+}
+.popupSection{
+    position: absolute;
+    top: 25px;
+    left: 28%;
+    position: fixed;
+    z-index: 4;
+    box-shadow: 0px 0px 100px 1000px rgba(58, 58, 58, 0.445);
+}
+.logoforpop{
+    width: 40px;
+    height: auto;
+}
+.scroldiv{
+    width: 100%;
+    height: 440px;
+    overflow: auto;
+}
+.logo_pop_car{
+    width: 40px;
+    height: auto;
+}
+.pop_logo_brand{
+    display: flex;
+    justify-content: center;
+}
+b{
+    margin-left: 10px;
+}
+.com_cont{
+    text-align: left;
+    margin-left: 170px;
+    margin-top: 10px;
+}
+.selectBrandBtn{
+    display: flex;
+    justify-content: space-between;
+}
+.btnCancel{
+    background: white;
+    box-shadow: 0px 0px 3px 3px lightgray;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.btncancellogo{
+    font-size: 30px;
+}

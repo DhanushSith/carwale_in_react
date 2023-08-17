@@ -1,0 +1,314 @@
+[
+    {
+      "id": 1,
+      "name": "Maruti Cars",
+      "models": [
+        { "id": 1, "src": "../Assets/maruti/maruti1.jpg","filterAmout":479000, "alt": "Maruti Invicto", "km": "23 kmpl", "bhp":"150 bhp", "price":"Rs. 4.79 Lakh", "rating":4},
+        { "id": 2, "src": "../Assets/maruti/maruti2.jpg","filterAmout":1875000, "alt": "Maruti Fronx", "km": "20-28 kmpl", "bhp":"76-99 bhp", "price":"Rs. 18.75 Lakh", "rating":4.5 },
+        { "id": 3, "src": "../Assets/maruti/maruti3.jpg","filterAmout":680000, "alt": "Maruti Grand Vitara", "km": "19-27 kmpl", "bhp":"87-102 bhp", "price":"Rs. 6.80 Lakh", "rating":3.9 },
+        { "id": 4, "src": "../Assets/maruti/maruti4.jpg","filterAmout":3200000, "alt": "Maruti Baleno", "km": "22-30 kmpl", "bhp":"76-88 bhp", "price":"Rs. 32.00 Lakh", "rating":4.2 },
+        { "id": 5, "src": "../Assets/maruti/maruti5.jpg","filterAmout":2499000, "alt": "Maruti Brezza", "km": "17-25 kmpl", "bhp":"87-102 bhp", "price":"Rs. 24.99 Lakh", "rating":4.8 },
+        { "id": 6, "src": "../Assets/maruti/maruti6.jpg","filterAmout":2390000, "alt": "Maruti Ertiga", "km": "20-26 kmpl", "bhp":"87-102 bhp", "price":"Rs. 23.9 Lakh", "rating":4.2 },
+        { "id": 7, "src": "../Assets/maruti/maruti7.jpg","filterAmout":439000, "alt": "Maruti Alto K10", "km": "24 kmpl", "bhp":"56-66 bhp", "price":"Rs. 4.39 Lakh", "rating":4.7 },
+        { "id": 8, "src": "../Assets/maruti/maruti8.jpg","filterAmout":1900000, "alt": "Maruti Jimny", "km": "16 kmpl", "bhp":"103  bhp", "price":"Rs. 19.00 Lakh", "rating":3.9 },
+        { "id": 9, "src": "../Assets/maruti/maruti9.jpg","filterAmout":2090000, "alt": "Maruti Swift", "km": "22-30 kmpl", "bhp":"76-89 bhp", "price":"Rs. 20.90 Lakh", "rating":4.4 },
+        { "id":10, "src": "../Assets/maruti/maruti10.jpg","filterAmout":2539000, "alt":"Maruti Alto 800", "km": "22-31 kmpl", "bhp":"40-48 bhp", "price":"Rs. 25.39 Lakh", "rating":4.7 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hyundai",
+      "models": [
+        { "id": 1, "src": "../Assets/hyundai/hyundai1.jpg","filterAmout":800000, "alt": "Hyundai Exter", "km": "25 kmpl", "bhp":"150 bhp", "price":"Rs. 6.00 - 10.10 Lakh", "rating":4.7 },
+        { "id": 2, "src": "../Assets/hyundai/hyundai2.jpg","filterAmout":1879000, "alt": "Hyundai Aura", "km": "26.7 kmpl", "bhp":"87-102 bhp", "price":"Rs. 18.79 Lakh", "rating":4.8 },
+        { "id": 3, "src": "../Assets/hyundai/hyundai3.jpg","filterAmout":2169000, "alt": "Hyundai i20", "km": "30 kmpl", "bhp":"150 bhp", "price":"Rs. 21.69 Lakh", "rating":4.1 },
+        { "id": 4, "src": "../Assets/hyundai/hyundai4.jpg","filterAmout":1409000, "alt": "Hyundai Verna", "km": "28 kmpl", "bhp":"122 bhp", "price":"Rs. 14.09 Lakh", "rating":3.9 },
+        { "id": 5, "src": "../Assets/hyundai/hyundai5.jpg","filterAmout":2000000, "alt": "Hyundai Venue", "km": "24.3 kmpl", "bhp":"140 bhp", "price":"Rs. 20.00 Lakh", "rating":4.5 },
+        { "id": 6, "src": "../Assets/hyundai/hyundai6.jpg","filterAmout":2100000, "alt": "Hyundai Creta", "km": "27-30 kmpl", "bhp":"87-1020 bhp", "price":"Rs. 21.00 Lakh", "rating":4.2 },
+        { "id": 7, "src": "../Assets/hyundai/hyundai7.jpg","filterAmout":2400000, "alt": "Hyundai Grand i10 Nios", "km": "23-28 kmpl", "bhp":"56-66 bhp", "price":"Rs. 24.00 Lakh", "rating":4.8 },
+        { "id": 8, "src": "../Assets/hyundai/hyundai8.jpg","filterAmout":2689000, "alt": "Hyundai Alcazar", "km": "20-27 kmpl", "bhp":"150 bhp", "price":"Rs. 26.89 Lakh", "rating":4.6 },
+        { "id": 9, "src": "../Assets/hyundai/hyundai9.jpg","filterAmout":3000000, "alt": "Hyundai Tucson", "km": "23 kmpl", "bhp":"87-102 bhp", "price":"Rs. 30.00 Lakh", "rating":4.5 },
+        { "id": 10, "src": "../Assets/hyundai/hyundai10.jpg","filterAmout":3809000, "alt": "Hyundai Ioniq 5", "km": "25 kmpl", "bhp":"150 bhp", "price":"Rs. 38.09 Lakh", "rating":4.9 }
+      ],
+      "details":{ 
+          "carname": "Hyundai Exter",
+          "pricing":"Rs. 6.00 -10.88 Lakh",
+          "version": "EX 1.2 MT",
+          "city":"Show price in my city",
+          "mileage":"19.2 to 27.1 km/kg",
+          "engine":"1197 cc",
+          "Safety": "5 Star (ASEAN NCAP)",
+          "fule" : "Petrol & CNG",
+          "seating": "5 Seater",
+          "munbai": "Rs. 7.13 Lakh onwards",
+          "bangalore": "Rs. 7.43 Lakh onwards",
+          "delhi": "Rs. 6.71 Lakh onwards",
+          "pune": "Rs. 7.13 Lakh onwards",
+          "relatedImages":[
+            {"img":"../Assets/hyundai/hyundai/hyundai_1_side.jpg"},
+            {"img":"../Assets/hyundai/hyundai/hyundai_2_side.jpg"},
+            {"img":"../Assets/hyundai/hyundai/hyundai_3_side.jpg"},
+            {"img":"../Assets/hyundai/hyundai/hyundai_4_side.jpg"}
+          ]
+        }
+    },  
+    {
+        "id": 3,
+        "name": "Tata",
+        "models": [
+          { "id": 1, "src": "../Assets/tata/tata1.jpg","filterAmout":1520000, "alt": "Tata Harrie", "km": "14-16 kmpl", "bhp":"168 bhp", "price":"Rs. 15.20 Lakh", "rating":4.8 },
+          { "id": 2, "src": "../Assets/tata/tata2.jpg","filterAmout":660000, "alt": "Tata Altroz", "km": "18-25 kmpl", "bhp":"72-108 bhp", "price":"Rs. 6.60 Lakh", "rating":4.6 },
+          { "id": 3, "src": "../Assets/tata/tata3.jpg","filterAmout":800000, "alt": "Tata Nexon", "km": "16-24 kmpl", "bhp":"108-118 bhp", "price":"Rs. 8.00 Lakh", "rating":4.5 },
+          { "id": 4, "src": "../Assets/tata/tata4.jpg","filterAmout":600000, "alt": "Tata Punch", "km": "18-20 kmpl", "bhp":"84-87 bhp", "price":"Rs. 6.00 Lakh", "rating":4.2 },
+          { "id": 5, "src": "../Assets/tata/tata5.jpg","filterAmout":460000, "alt": "Tata Tiago", "km": "19-26 kmpl", "bhp":"72-85 bhp", "price":"Rs. 4.60 Lakh", "rating":4.4 },
+          { "id": 6, "src": "../Assets/tata/tata6.jpg","filterAmout":1585000, "alt": "Tata Safari", "km": "14-16 kmpl", "bhp":"168  bhp", "price":"Rs. 15.85 Lakh", "rating":4.7 },
+          { "id": 7, "src": "../Assets/tata/tata7.jpg","filterAmout":869000, "alt": "Tata Tiago EV", "km": "20-24 kmpl", "bhp":"140 bhp", "price":"Rs. 8.69 Lakh", "rating":4.5 },
+          { "id": 8, "src": "../Assets/tata/tata8.jpg","filterAmout":1649000, "alt": "Tata Nexon EV Max", "km": "25 kmpl", "bhp":"150 bhp", "price":"Rs. 16.49 Lakh", "rating":4 },
+          { "id": 9, "src": "../Assets/tata/tata9.jpg","filterAmout":670000, "alt": "Tata Tiago NRG", "km": "20-26 kmpl", "bhp":"72-85 bhp", "price":"Rs. 6.70 Lakh", "rating":4.7 },
+          { "id": 10, "src": "../Assets/tata/tata10.jpg","filterAmout":630000, "alt": "Tata Tigor", "km": "19-26 kmpl", "bhp":"72-84 bhp", "price":"Rs. 6.30 Lakh", "rating":4.5 }
+        ],
+        "details":{ 
+          "carname": "Tata Nexon",
+          "pricing":"Rs. 8.00 Lakh",
+          "version": "XE",
+          "city":"Show price in my city",
+          "mileage":"17.05 to 24.07 kmpl",
+          "engine":"1199 to 1497 cc",
+          "Safety": "5 Star (Global NCAP)",
+          "fule" : "Petrol, Diesel & CNG",
+          "seating": "5 Seater",
+          "munbai": "Rs. 9.40 Lakh onwards",
+          "bangalore": "Rs. 9.63 Lakh onwards",
+          "delhi": "Rs. 9.10 Lakh onwards",
+          "pune": "Rs. 9.40 Lakh onwards",
+          "relatedImages":[
+            {"img":"../Assets/tata/tataSlid/tata_1_img.jpg"},
+            {"img":"../Assets/tata/tataSlid/tata_2_img.jpg"},
+            {"img":"../Assets/tata/tataSlid/tata_3_img.jpg"},
+            {"img":"../Assets/tata/tataSlid/tata_4_img.jpg"}
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "BMW",
+        "models": [
+          { "id": 1, "src": "../Assets/bmw/bmw1.jpg","filterAmout":3200000, "alt": "BMW X1", "km": "12 kmpl", "bhp":"335 bhp", "price":"Rs. 32.00 Lakh", "rating":4.9 },
+          { "id": 2, "src": "../Assets/bmw/bmw2.jpg","filterAmout":4570000, "alt": "BMW X5", "km": "13 kmpl", "bhp":"290 bhp", "price":"Rs. 45.70 Lakh", "rating":4.6 },
+          { "id": 3, "src": "../Assets/bmw/bmw3.jpg","filterAmout":5580000, "alt": "BMW M340i", "km": "14 kmpl", "bhp":"344 bhp", "price":"Rs. 55.80 Lakh", "rating":4.8 },
+          { "id": 4, "src": "../Assets/bmw/bmw4.jpg","filterAmout":6600000, "alt": "BMW 3 Series Gran Limousine", "km": "12-14 kmpl", "bhp":"355 bhp", "price":"Rs. 66.00 Lakh", "rating":4.7 },
+          { "id": 5, "src": "../Assets/bmw/bmw5.jpg","filterAmout":7600000, "alt": "BMW X7", "km": "17 kmpl", "bhp":"332 bhp", "price":"Rs. 76.00 Lakh", "rating":4.8 },
+          { "id": 6, "src": "../Assets/bmw/bmw6.jpg","filterAmout":9200000, "alt": "BMW 2 Series Gran Coupe", "km": "22 kmpl", "bhp":"320 bhp", "price":"Rs. 92.00 Lakh", "rating":4.5 },
+          { "id": 7, "src": "../Assets/bmw/bmw7.jpg","filterAmout":8600000, "alt": "BMW 5 Series", "km": "14 kmpl", "bhp":"310 bhp", "price":"Rs. 86.00 Lakh", "rating":4.9 },
+          { "id": 8, "src": "../Assets/bmw/bmw8.jpg","filterAmout":9800000, "alt": "BMW M2", "km": "13 kmpl", "bhp":"332 bhp", "price":"Rs. 98.00 Lakh", "rating":4.4 },
+          { "id": 9, "src": "../Assets/bmw/bmw9.jpg","filterAmout":8900000, "alt": "BMW Z4", "km": "13 kmpl", "bhp":"344 bhp", "price":"Rs. 89.30 Lakh", "rating":4.9 },
+          { "id": 10, "src": "../Assets/bmw/bmw10.jpg","filterAmout":17000000, "alt": "BMW 7 Series", "km": "16 kmpl", "bhp":"320 bhp", "price":"Rs. 1.70 Crore", "rating":4.8 }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Mahindra",
+        "models": [
+          { "id": 1, "src": "../Assets/mahindra/mahindra1.jpg","filterAmout":650000, "alt": "Mahindra Scorpio", "km": "22 kmpl", "bhp":"121 bhp", "price":"Rs. 6.50 Lakh", "rating":4.8 },
+          { "id": 2, "src": "../Assets/mahindra/mahindra2.jpg","filterAmout":880000, "alt": "Mahindra Thar", "km": "20 kmpl", "bhp":"123 bhp", "price":"Rs. 8.80 Lakh", "rating":4.2 },
+          { "id": 3, "src": "../Assets/mahindra/mahindra3.jpg","filterAmout":1210000, "alt": "Mahindra Scorpio N", "km": "19 kmpl", "bhp":"132 bhp", "price":"Rs. 12.10 Lakh", "rating":4.7 },
+          { "id": 4, "src": "../Assets/mahindra/mahindra4.jpg","filterAmout":1520000, "alt": "Mahindra XUV700", "km": "17 kmpl", "bhp":"126 bhp", "price":"Rs. 15.20 Lakh", "rating":4.5 },
+          { "id": 5, "src": "../Assets/mahindra/mahindra5.jpg","filterAmout":1930000, "alt": "Mahindra XUV300", "km": "18 kmpl", "bhp":"17 bhp", "price":"Rs. 19.30 Lakh", "rating":4.8 },
+          { "id": 6, "src": "../Assets/mahindra/mahindra6.jpg","filterAmout":2400000, "alt": "Mahindra Bolero", "km": "16 kmpl", "bhp":"129-140 bhp", "price":"Rs. 24.00 Lakh", "rating":4.9 },
+          { "id": 7, "src": "../Assets/mahindra/mahindra7.jpg","filterAmout":1780000, "alt": "Mahindra Bolero Neo", "km": "17 kmpl", "bhp":"200 bhp", "price":"Rs. 17.80 Lakh", "rating":4.3 },
+          { "id": 8, "src": "../Assets/mahindra/mahindra8.jpg","filterAmout":430000, "alt": "Mahindra XUV300 TurboSport", "km": "18 kmpl", "bhp":"144 bhp", "price":"Rs. 4.30 Lakh", "rating":4.4 },
+          { "id": 9, "src": "../Assets/mahindra/mahindra9.jpg","filterAmout":1790000, "alt": "Mahindra XUV400", "km": "15 kmpl", "bhp":"153 bhp", "price":"Rs. 17.90 Lakh", "rating":4.7 },
+          { "id": 10, "src": "../Assets/mahindra/mahindra10.jpg","filterAmout":1200000, "alt": "Mahindra Marazzo", "km": "17 kmpl", "bhp":"151 bhp", "price":"Rs. 12.00 Lakh", "rating":4.3 }
+        ],
+        "details":{ 
+          "carname": "Mahindra Scorpio",
+          "pricing":"Rs. 13.00 - 16.81 Lakh",
+          "version": "S MT 7STR",
+          "city":"Show price in my city",
+          "mileage":"17.8 to 18.4 kmpl",
+          "engine":"2184 cc",
+          "Safety": "5 Star (ASEAN NCAP)",
+          "fule" : "Diesel",
+          "seating": "7 & 9 Seater",
+          "munbai": "Rs. 15.84 Lakh onwards",
+          "bangalore": "Rs. 16.52 Lakh onwards",
+          "delhi": "Rs. 15.75 Lakh onwards",
+          "pune": "Rs. 15.90 Lakh onwards",
+          "relatedImages":[
+            {"img":"../Assets/mahindra/mahindraSlid/mahindra_1_img.jpg"},
+            {"img":"../Assets/mahindra/mahindraSlid/mahindra_2_img.jpg"},
+            {"img":"../Assets/mahindra/mahindraSlid/mahindra_3_img.jpg"},
+            {"img":"../Assets/mahindra/mahindraSlid/mahindra_4_img.jpg"}
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "name": "Toyota",
+        "models": [
+          { "id": 1, "src": "../Assets/toyota/toyota1.jpg","filterAmout":1967000, "alt": "Toyota Innova Hycross", "km": "16-23 kmpl", "bhp":"173-184 bhp", "price":"Rs. 19.67 Lakh", "rating":4.5 },
+          { "id": 2, "src": "../Assets/toyota/toyota2.jpg","filterAmout":1086000, "alt": "Toyota Urban Cruiser Hyryder", "km": "19-27 kmpl", "bhp":"87-102 bhp", "price":"Rs. 10.86 Lakh", "rating":4.3 },
+          { "id": 3, "src": "../Assets/toyota/toyota3.jpg","filterAmout":3298000, "alt": "Toyota Fortuner", "km": "10-14 kmpl", "bhp":"164-201 bhp", "price":"Rs. 32.98 Lakh", "rating":4.4 },
+          { "id": 4, "src": "../Assets/toyota/toyota4.jpg","filterAmout":681000, "alt": "Toyota Glanza", "km": "22-30 kmpl", "bhp":"76-89 bhp", "price":"Rs. 6.81 Lakh", "rating":4.6 },
+          { "id": 5, "src": "../Assets/toyota/toyota5.jpg","filterAmout":21000000, "alt": "Toyota Land Cruiser", "km": "12 kmpl", "bhp":"304  bhp", "price":"Rs. 2.10 Crore", "rating":4.9 },
+          { "id": 6, "src": "../Assets/toyota/toyota6.jpg","filterAmout":1999000, "alt": "Toyota Innova Crysta", "km": "25 kmpl", "bhp":"148  bhp", "price":"Rs. 19.99 Lakh", "rating":4.8 },
+          { "id": 7, "src": "../Assets/toyota/toyota7.jpg","filterAmout":4322000, "alt": "Toyota Fortuner Legender", "km": "14 kmpl", "bhp":"201 bhp", "price":"Rs. 43.22 Lakh", "rating":4.7 },
+          { "id": 8, "src": "../Assets/toyota/toyota8.jpg","filterAmout":9644000, "alt": "Toyota Vellfire", "km": "16 kmpl", "bhp":"115  bhp", "price":"Rs. 96.44 Lakh", "rating":4.4 },
+          { "id": 9, "src": "../Assets/toyota/toyota9.jpg","filterAmout":3041000, "alt": "Toyota Hilux", "km": "17 kmpl", "bhp":"201 bhp", "price":"Rs. 30.41 Lakh", "rating":4.7 },
+          { "id": 10, "src": "../Assets/toyota/toyota10.jpg","filterAmout":4617000, "alt": "Toyota Camry", "km": "19 kmpl", "bhp":"176 bhp", "price":"Rs. 46.17 Lakh", "rating":4.7 }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "kia",
+        "models": [
+          { "id": 1, "src": "../Assets/kia/kia1.jpg","filterAmout":1090000, "alt": "Kia Seltos", "km": "18 kmpl", "bhp":"189 bhp", "price":"Rs. 10.90 Lakh", "rating":4.9 },
+          { "id": 2, "src": "../Assets/kia/kia2.jpg","filterAmout":779000, "alt": "Kia Sonet", "km": "25 kmpl", "bhp":"160-180 bhp", "price":"Rs. 7.79 Lakh", "rating":4.8 },
+          { "id": 3, "src": "../Assets/kia/kia3.jpg","filterAmout":1045000, "alt": "Kia Carens", "km": "22 kmpl", "bhp":"150 bhp", "price":"Rs. 10.45 Lakh", "rating":4.7 },
+          { "id": 4, "src": "../Assets/kia/kia4.jpg","filterAmout":3097000, "alt": "Kia Carnival", "km": "19 kmpl", "bhp":"200 bhp", "price":"Rs. 30.97 Lakh", "rating":4.6 },
+          { "id": 5, "src": "../Assets/kia/kia5.jpg","filterAmout":6095000, "alt": "Kia EV6", "km": "17 kmpl", "bhp":"160 bhp", "price":"Rs. 60.95 Lakh", "rating":4.7 },
+          { "id": 6, "src": "../Assets/kia/kia6.jpg","filterAmout":800000, "alt": "Kia Sonet Facelift", "km": "22 kmpl", "bhp":"177 bhp", "price":"Rs. 8.00 Lakh", "rating":4.8 },
+          { "id": 7, "src": "../Assets/kia/kia7.jpg","filterAmout":4000000, "alt": "Kia KA4 (Carnival)", "km": "25 kmpl", "bhp":"187 bhp", "price":"Rs. 40.00 Lakh", "rating":4.5 },
+          { "id": 8, "src": "../Assets/kia/kia8.jpg","filterAmout":9000000, "alt": "Kia EV9", "km": "24 kmpl", "bhp":"180 bhp", "price":"Rs. 90.00 Lakh", "rating":4.9 },
+          { "id": 9, "src": "../Assets/kia/kia9.jpg","filterAmout":600000, "alt": "Kia Rio", "km": "19 kmpl", "bhp":"144 bhp", "price":"Rs. 6.00 Lakh", "rating":4.6 },
+          { "id": 10, "src": "../Assets/kia/kia10.jpg","filterAmout":5600000, "alt": "kia KA5", "km": "22 kmpl", "bhp":"151 bhp", "price":"Rs. 56.00 Lakh", "rating":4.8 }
+        ],
+        "details":{ 
+          "carname":"Kia Seltos",
+          "pricing":"Rs. 7.79 - 14.89 Lakh",
+          "version": "HTE 1.2",
+          "city":"Show price in my city",
+          "mileage":"17.8 to 18.4 kmpl",
+          "engine":"998 to 1493 cc",
+          "Safety": "5 Star (ASEAN NCAP)",
+          "fule" : "Petrol & Diesel",
+          "seating": "5 Seater",
+          "munbai": "Rs. 9.13 Lakh onwards",
+          "bangalore": "Rs. 9.42 Lakh onwards",
+          "delhi": "Rs. 8.82 Lakh onwards",
+          "pune": "Rs. 9.11 Lakh onwards",
+          "relatedImages":[
+            {"img":"../Assets/kia/kia/img_1_kia.jpg"},
+            {"img":"../Assets/kia/kia/img_2_kia.jpg"},
+            {"img":"../Assets/kia/kia/img_3_kia.jpg"},
+            {"img":"../Assets/kia/kia/img_4_kia.jpg"}
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "name": "MG",
+        "models": [
+          { "id": 1, "src": "../Assets/mg/mg1.jpg","filterAmout":798000, "alt": "MG Comet EV", "km": "35 kmpl", "bhp":"105 bhp", "price":"Rs. 7.98 Lakh", "rating":4.7 },
+          { "id": 2, "src": "../Assets/mg/mg2.jpg","filterAmout":1500000, "alt": "MG Hector", "km": "25 kmpl", "bhp":"141-170 bhp", "price":"Rs. 15.00 Lakh", "rating":4.3 },
+          { "id": 3, "src": "../Assets/mg/mg3.jpg","filterAmout":1082000, "alt": "MG Astor", "km": "19 kmpl", "bhp":"108-138 bhp", "price":"Rs. 10.82 Lakh", "rating":4.1 },
+          { "id": 4, "src": "../Assets/mg/mg4.jpg","filterAmout":2337000, "alt": "MG ZS EV", "km": "22 kmpl", "bhp":"120-134 bhp", "price":"Rs. 23.37 Lakh", "rating":3.7 },
+          { "id": 5, "src": "../Assets/mg/mg5.jpg","filterAmout":3260000, "alt": "MG Gloster", "km": "12-13 kmpl", "bhp":"158-212 bhp", "price":"Rs. 32.60 Lakh", "rating":3.9 },
+          { "id": 6, "src": "../Assets/mg/mg6.jpg","filterAmout":1800000, "alt": "MG Hector Plus", "km": "16 kmpl", "bhp":"141-168 bhp", "price":"Rs. 18.00 Lakh", "rating":4.5 },
+          { "id": 7, "src": "../Assets/mg/mg7.jpg","filterAmout":3000000, "alt": "MG Euniq 7", "km": "25 kmpl", "bhp":"140-167 bhp", "price":"Rs. 30.00 Lakh", "rating":4.8 },
+          { "id": 8, "src": "../Assets/mg/mg8.jpg","filterAmout":1500000, "alt": "MG 4", "km": "24 kmpl", "bhp":"150 bhp", "price":"Rs. 15.00 Lakh", "rating":4.6 },
+          { "id": 9, "src": "../Assets/mg/mg9.jpg","filterAmout":2300000, "alt": "MG eRX5", "km": "22 kmpl", "bhp":"160 bhp", "price":"Rs. 23.00 Lakh", "rating":4.9 },
+          { "id": 10, "src": "../Assets/mg/mg10.jpg","filterAmout":2600000, "alt": "MG Marvel R", "km": "18 kmpl", "bhp":"170-188 bhp", "price":"Rs. 26.00 Lakh", "rating":4.7 }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Audi",
+        "models": [
+          { "id": 1, "src": "../Assets/audi/audi1.jpg","filterAmout":4281000, "alt": "Audi A4", "km": "17  kmpl", "bhp":"188-202 bhp", "price":"Rs. 43.81 Lakh", "rating":4.6 },
+          { "id": 2, "src": "../Assets/audi/audi2.jpg","filterAmout":4565000, "alt": "Audi Q3", "km": "14 kmpl", "bhp":"172 bhp", "price":"Rs. 45.65 Lakh", "rating":4.7 },
+          { "id": 3, "src": "../Assets/audi/audi3.jpg","filterAmout":6143000, "alt": "Audi A6", "km": "14 kmpl", "bhp":"241-261 bhp", "price":"Rs. 61.43 Lakh", "rating":4.7 },
+          { "id": 4, "src": "../Assets/audi/audi4.jpg","filterAmout":6147000, "alt": "Audi Q5", "km": "13 kmpl", "bhp":"261 bhp", "price":"Rs. 61.47 Lakh", "rating":4.7 },
+          { "id": 5, "src": "../Assets/audi/audi5.jpg","filterAmout":5143000, "alt": "Audi Q3 Sportback", "km": "25 kmpl", "bhp":"193  bhp", "price":"Rs. 51.43 Lakh", "rating":4.7 },
+          { "id": 6, "src": "../Assets/audi/audi6.jpg","filterAmout":8470000, "alt": "Audi Q7", "km": "11 kmpl", "bhp":"335  bhp", "price":"Rs. 84.70 Lakh", "rating":4.4 },
+          { "id": 7, "src": "../Assets/audi/audi7.jpg","filterAmout":10700000, "alt": "Audi Q8", "km": "9 kmpl", "bhp":"335  bhp", "price":"Rs. 1.07 Crore", "rating":4.5 },
+          { "id": 8, "src": "../Assets/audi/audi8.jpg","filterAmout":17000000, "alt": "Audi e-tron GT", "km": "11 kmpl", "bhp":"340 bhp", "price":"Rs. 1.70 Crore", "rating":4.7 },
+          { "id": 9, "src": "../Assets/audi/audi9.jpg","filterAmout":7578000, "alt": "Audi S5 Sportback", "km": "10 kmpl", "bhp":"349  bhp", "price":"Rs. 75.78 Lakh", "rating":5 },
+          { "id": 10, "src": "../Assets/audi/audi10.jpg","filterAmout":22200000, "alt": "Audi RS Q8", "km": "8 kmpl", "bhp":"591  bhp", "price":"Rs. 2.22 Crore", "rating":4.7 }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Land Rover",
+        "models": [
+          { "id": 1, "src": "../Assets/landrover/landrover1.jpg","filterAmout":9355000, "alt": "Land Rover Defender", "km": "6-40 kmpl", "bhp":"296-518 bhp", "price":"Rs. 93.55 Lakh", "rating":4.7 },
+          { "id": 2, "src": "../Assets/landrover/landrover2.jpg","filterAmout":8941000, "alt": "Land Rover Range Rover Velar", "km": "12-15 kmpl", "bhp":"177-296 bhp", "price":"Rs. 89.41 Lakh", "rating":4.7 },
+          { "id": 3, "src": "../Assets/landrover/landrover3.jpg","filterAmout":23900000, "alt": "Land Rover Range Rover", "km": "8-13 kmpl", "bhp":"346-523 bhp", "price":"Rs. 2.39 Crore", "rating":4.5 },
+          { "id": 4, "src": "../Assets/landrover/landrover4.jpg","filterAmout":7209000, "alt": "Land Rover Range Rover Evoque", "km": "10-14 kmpl", "bhp":"177-247 bhp", "price":"Rs. 72.09 Lakh", "rating":4.7 },
+          { "id": 5, "src": "../Assets/landrover/landrover5.jpg","filterAmout":7139000, "alt": "Land Rover Discovery Sport", "km": "10-13 kmpl", "bhp":"201-247 bhp", "price":"Rs. 71.39 Lakh", "rating":3.5 },
+          { "id": 6, "src": "../Assets/landrover/landrover6.jpg","filterAmout":16400000, "alt": "Land Rover Range Rover Sport", "km": "11 kmpl", "bhp":"346 bhp", "price":"Rs. 1.64 Crore", "rating":4.6 },
+          { "id": 7, "src": "../Assets/landrover/landrover7.jpg","filterAmout":8806000, "alt": "Land Rover Discovery", "km": "8-13 kmpl", "bhp":"237-355 bhp", "price":"Rs. 88.06 Lakh", "rating":4.7 }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Honda",
+        "models": [
+          { "id": 1, "src": "../Assets/honda/honda1.jpg","filterAmout":1160000, "alt": "Honda City", "km": "17-18 kmpl", "bhp":"119 bhp", "price":"Rs. 11.60 Lakh", "rating":4.2 },
+          { "id": 2, "src": "../Assets/honda/honda2.jpg","filterAmout":407000, "alt": "Honda Amaze", "km": "18-24 kmpl", "bhp":"79-98 bhp", "price":"Rs. 4.07 Lakh", "rating":4.3 },
+          { "id": 3, "src": "../Assets/honda/honda3.jpg","filterAmout":1892000, "alt": "Honda City Hybrid eHEV", "km": "27 kmpl", "bhp":"97 bhp", "price":"Rs. 18.92 Lakh", "rating":4.4 },
+          { "id": 4, "src": "../Assets/honda/honda4.jpg","filterAmout":1000000, "alt": "Honda Elevate", "km": "25 kmpl", "bhp":"120 bhp", "price":"Rs. 10.00 Lakh", "rating":4.7 },
+          { "id": 5, "src": "../Assets/honda/honda5.jpg","filterAmout":900000, "alt": "Honda New WR-V", "km": "18 kmpl", "bhp":"110 bhp", "price":"Rs. 9.00 Lakh", "rating":4.7 }
+        ],
+        "details":{ 
+          "carname":"Honda City",
+          "pricing":"Rs. 11.60 - 16.08 Lakh",
+          "version": "SV Petrol MT",
+          "city":"Show price in my city",
+          "mileage":"17.8 to 18.4 kmpl",
+          "engine":"1498 cc",
+          "Safety": "5 Star (ASEAN NCAP)",
+          "fule" : "Petrol",
+          "seating": "5 Seater",
+          "munbai": "Rs. 13.68 Lakh onwards",
+          "bangalore": "Rs. 14.42 Lakh onwards",
+          "delhi": "Rs. 13.40 Lakh onwards",
+          "pune": "Rs. 13.60 Lakh onwards",
+          "relatedImages":[
+            {"img":"../Assets/honda/honda/honda_1_side.jpg"},
+            {"img":"../Assets/honda/honda/honda_2_side.jpg"},
+            {"img":"../Assets/honda/honda/honda_3_side.jpg"},
+            {"img":"../Assets/honda/honda/honda_4_side.jpg"}
+          ]
+        }
+      },
+      {
+        "id": 12,
+        "name": "Skoda",
+        "models": [
+          { "id": 1, "src": "../Assets/skoda/skoda1.jpg","filterAmout":1159000, "alt": "Skoda Kushaq", "km": "17-19 kmpl", "bhp":"114-148 bhp", "price":"Rs. 11.59 Lakh", "rating":4.3 },
+          { "id": 2, "src": "../Assets/skoda/skoda2.jpg","filterAmout":1139000, "alt": "Skoda Slavia", "km": "18-20 kmpl", "bhp":"114-148 bhp", "price":"Rs. 11.39 Lakh", "rating":4.5 },
+          { "id": 3, "src": "../Assets/skoda/skoda3.jpg","filterAmout":3799000, "alt": "Skoda Kodiaq", "km": "12-13 kmpl", "bhp":"188 bhp", "price":"Rs. 37.99 Lakh", "rating":4.3 },
+          { "id": 4, "src": "../Assets/skoda/skoda4.jpg","filterAmout":3417000, "alt": "Skoda Superb", "km": "15 kmpl", "bhp":"188 bhp", "price":"Rs. 34.17 Lakh", "rating":4.5 },
+          { "id": 5, "src": "../Assets/skoda/skoda5.jpg","filterAmout":5000000, "alt": "Skoda Enyaq", "km": "18 kmpl", "bhp":"179 bhp", "price":"Rs. 50.00 Lakh", "rating":4.7 },
+          { "id": 6, "src": "../Assets/skoda/skoda6.jpg","filterAmout":2200000, "alt": "Skoda Kamiq", "km": "22 kmpl", "bhp":"168 bhp", "price":"Rs. 22.00 Lakh", "rating":4.8 }
+        ],
+        "details":{ 
+          "carname":"Skoda Kushaq",
+          "pricing":"Rs. 11.59 - 19.69 Lakh",
+          "version": "Active 1.0 TSI MT",
+          "city":"Show price in my city",
+          "mileage":"17.87 to 19.67 kmpl",
+          "engine":"999 to 1498 cc",
+          "Safety": "5 Star (Global NCAP)",
+          "fule" : "Petrol",
+          "seating": "5 Seater",
+          "munbai": "Rs. 13.64 Lakh onwards",
+          "bangalore": "Rs. 14.39 Lakh onwards",
+          "delhi": "Rs. 13.37 Lakh onwards",
+          "pune": "Rs. 13.62 Lakh onwards",
+          "relatedImages":[
+            {"img":"../Assets/skoda/skodaSide/skoda_1_img.jpg"},
+            {"img":"../Assets/skoda/skodaSide/skoda_2_img.jpg"},
+            {"img":"../Assets/skoda/skodaSide/skoda_3_img.jpg"},
+            {"img":"../Assets/skoda/skodaSide/skoda_4_img.jpg"}
+          ]
+        }
+      }
+    ]
+    
+    
+    
+    
+    
+    

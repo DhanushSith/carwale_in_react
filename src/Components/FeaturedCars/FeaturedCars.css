@@ -1,0 +1,75 @@
+.featured_Cars{
+    margin: 50px auto;
+}
+
+.srl_div{
+    justify-content: space-evenly;
+}
+.sr-only{
+    color:black;
+}
+.carousole_div{
+    display: flex;
+}
+.sli_hom_img{
+    /* background-color: blueviolet; */
+    margin: 10px;
+    height: 320px;
+}
+
+  
+
+.contenet{
+    /* background-color: aliceblue; */
+    border: 0.5px solid lightgray;
+    border-radius: 5px;
+    height: 90%;
+    margin: 10px 20px;
+    padding: 10px;
+}
+.slick-dots {
+    bottom: -100px;
+}
+.slick-next {
+    top:60%;
+    right: -15px;
+}
+.slick-prev{
+    top: 60%;
+    left: -15px;
+    z-index: 2;
+    
+}
+.slick-next:before, .slick-prev:before {
+    color: #313131;
+    height: 30px;
+    width: 30px;
+}
+.slick-dots li button{
+    display: none;
+}
+.carimg{
+    width: 80%;
+    margin: 0 auto;
+}
+.onwerds{
+    font-size: 12px;
+    color: gray;
+    margin-left: 20px;
+}
+.link_car{
+    text-decoration: none;
+    color: rgb(80, 79, 79);
+}
+.showprice_Btn{
+    color: darkseagreen;
+    background-color: transparent;
+    padding: 5px;
+    margin-top: 10px;
+    border: 1px solid darkseagreen;
+}
+.img_down_cont{
+    background-color: #efefef78;
+    padding: 10px 20px 19px 20px;
+    margin: 0px -10px -20px -10px;
+}

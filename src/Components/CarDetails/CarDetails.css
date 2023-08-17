@@ -1,0 +1,102 @@
+.container_alt{
+    width: 80%;
+    margin: 0 auto;
+    padding: 100px 0px 0px 0px;
+}
+.nav_bar_dtails{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.nav_bar_link{
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+    font-size: 14px;
+    font-weight: 600;
+}
+.img_flx_div{
+    width: 400px;
+    height: auto;
+    align-items: center;
+}
+.img_flx_div_rit{
+    padding: 0px;
+    margin-top: -60px;
+
+}
+.paraferap_detail{
+    margin: 20px 0px;
+}
+.col_img_vid{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 10px;
+}
+.ver_city{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50%;
+    border: 0.5px solid lightgray;
+}
+.right_head{
+    display: flex;
+    justify-content: space-between;
+
+}
+.img_car_div{
+    display: flex;
+    border: 0.5px solid lightgray;
+    border-radius: 8px;
+    margin-top: 20px;
+    justify-content: space-between;
+    
+}
+.versiondiv{
+    padding: 10px;
+}
+.emi_sec{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(231, 230, 230, 0.199);
+    padding: 10px 10px;
+    align-items: center;
+}
+.price{
+    padding: 10px;
+}
+.emi_sec p{
+    margin: 0;
+}
+.emi_sec button{
+    border: 1px solid #00afa0;
+    padding: 0px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    height: 25px;
+    color:#00afa0;
+    background-color: white;
+}
+.getoffer{
+    padding: 15px 80px;
+    background-color: #e53012;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.scrolespy{
+    /* background-color: aqua; */
+    width: 450px;
+    height: 300px;
+    margin: 20px 10px;
+}
+.priceforcar{
+    margin-top: 20px;
+}
+.avecar{
+    margin: 10px 0px;
+    font-size: 14px;
+}

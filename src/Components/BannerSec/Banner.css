@@ -1,0 +1,84 @@
+/* .banner_img{
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    height: 400px;
+} */
+.banner {
+    width: 100%;
+    overflow: hidden;
+    z-index: -1;
+    text-align: center;
+  }
+  
+  .banner_img {
+    height: 400px;
+    background-position: center top;
+    transform: translateX(-15%); 
+    margin-top: 50px;
+  }
+  .img_bnr {
+    position: relative;
+  }
+  
+  .img_bnr_cont {
+    position: absolute;
+    bottom: 20px; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    z-index: 1;
+  }
+  .search_img{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    position: relative;
+    width: 700px;
+    border-radius: 5px;
+    height: auto;
+    justify-content: space-between;
+  }
+  .bnr_heading{
+    color: white;
+    margin-bottom: 20px;
+  }
+  .new{
+    display: flex;
+    background-color: lightgray;
+    padding: 10px 12px;
+    width: 90px;
+    border-radius:  5px 0px 0px 5px;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .new_icon{
+    font-size: 18px;
+  }
+  .seachicon2{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    font-size: 20px ;
+  }
+  .search_btn{
+    padding: 10px;
+    background-color: #e53012;
+    border-radius: 0px 5px 5px 0px;
+    padding: 10px 20px;
+    margin: 2px;
+    border: none;
+  }
+  .selectCar{
+    border: none;
+    margin-left: 40px;
+  }
+  .ban_fot_div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .ban_fot{
+    color: white;
+    font-size: 14px;
+  }

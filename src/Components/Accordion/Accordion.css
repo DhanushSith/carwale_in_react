@@ -1,0 +1,64 @@
+/* table.css */
+.car_comp_sec{
+  margin-bottom: 30px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th
+   {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd; 
+  }
+  th{
+    width: 300px;
+  }
+  .td{
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd; 
+    width:300px;
+  }
+  .carimg_top{
+    width: 100%;
+    height: auto;
+  }
+  .twoimg_sec{
+    align-items: center;
+    justify-content: space-between;
+  }
+  /* thead th {
+    background-color: #f2f2f2;
+  }
+   */
+  /* tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  } */
+  .car_img_div{
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 300px;
+    
+  }
+  .justify_div_car{
+    justify-content: space-around;
+  }
+  .contence{
+    display: contents;
+  }
+  .first_space{
+    height: 300px;
+  }
+  .first_space{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+  .car_img_div{
+    text-align: center;
+  }
+  

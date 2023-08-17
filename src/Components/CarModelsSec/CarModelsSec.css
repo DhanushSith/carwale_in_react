@@ -1,0 +1,47 @@
+.model-grid{
+    display: flex;
+    
+}
+.car_div{
+    width:290px;
+    height: auto;
+}
+.car_div_full{
+    display: flex;
+    border: 1px solid lightgray;
+    margin: 20px 0px;
+    border-radius: 8px;
+    padding: 10px;
+    width: 730px;
+}
+.car_models{
+    padding-top: 80px;
+}
+.km{
+    display: flex;
+    word-spacing: 7px;
+}
+.getBestoffer{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    color: #0288d1;
+    line-height: 50px;
+}
+.car_content{
+    padding: 10px 20px;
+    line-height: 28px;
+    width: 100%;
+}
+.star{
+    color: rgb(0, 175, 160);
+    padding-top: 3px;
+}
+.rating{
+    border: 0.5px solid gray;
+    padding: 0px 10px;
+}
+.car_content_head{
+    display: flex;
+    justify-content: space-between;
+}
